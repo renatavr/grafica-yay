@@ -18,7 +18,7 @@
     Continuamos con otros motivos en común, donde un 6% de los álbumes no rankeados no están en plataformas de streaming. Aquí se utiliza otro recurso que es el de re-ordenar. 
     
     <video src="./VIDEO/NO-EN-PLATAFORMAS.mp4" width="320" height="240" controls> 
-
+    
 
 
 3. **Quiénes eligen los álbumes en los listados a lo largo del tiempo**: El final elemento que se observa es quiénes están detrás de las decisiones de los rankings, comparando las demográficas y la forma en que estas influyen como toman decisiones.
