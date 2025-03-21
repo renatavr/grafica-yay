@@ -15,9 +15,10 @@
 2. **Características comúnes entre los álbumes que desaparecen del listado**: El siguiente enfoque se centra en encontrar **qué une a los álbumes que desaparecieron del Top 500 de 2003**. 
     
     El primer criterio en común que se encuentra es que una parte de estos álbumes son *compilaciones o "Greatest Hits"*, algo que no se usa en la actualidad según esta webstory, siendo reemplazado por las playlists. La narración continúa usando el scrolling como movedor del lector y la saturación de los álbumes para darles relevancia, acompañada de la asociación de un color específico a cada año del ranking. <img src="./images /no-rankeados-1.png"> 
-    Continuamos con otros motivos en común, donde un 6% de los álbumes no rankeados no están en plataformas de streaming. Aquí se utiliza otro recurso que es el de re-ordenar.
+    Continuamos con otros motivos en común, donde un 6% de los álbumes no rankeados no están en plataformas de streaming. Aquí se utiliza otro recurso que es el de re-ordenar. 
+    
+    <video src="./VIDEO/NO-EN-PLATAFORMAS.mp4" width="320" height="240" controls> 
 
- <video src="./VIDEO/NO-EN-PLATAFORMAS.mp4" width="320" height="240" controls> 
 
 
 3. **Quiénes eligen los álbumes en los listados a lo largo del tiempo**: El final elemento que se observa es quiénes están detrás de las decisiones de los rankings, comparando las demográficas y la forma en que estas influyen como toman decisiones.
